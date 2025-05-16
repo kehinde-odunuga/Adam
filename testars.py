@@ -5,5 +5,5 @@ add = num1 + num2
 print(add)
 name = "Kehinde Odunuga"
 role = "QA Engineer"
-dsec = f"{name} is a {role}"
+desc = f"{name} is a {role}"
 print(desc)
