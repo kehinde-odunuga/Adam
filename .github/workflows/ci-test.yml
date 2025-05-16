@@ -1,4 +1,4 @@
-name: Github Actions Testars
+name: Github Actions Test
 on: [ push ]
 jobs:
   Test:
